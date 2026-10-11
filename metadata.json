@@ -1,0 +1,8 @@
+{
+  "name": "ksia-ert-90-second-prioritization-offices-v2",
+  "description": "KSIA ERT 90-Second Prioritization ",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
